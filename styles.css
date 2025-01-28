@@ -7,9 +7,10 @@
 }
 
 .container > div {
-    border: 3px solid black;
+    border: 5px solid black;
+    border-radius: 15%;
 }
 
 .box{
     display: flex;
-}
+}   
